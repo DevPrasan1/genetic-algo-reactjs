@@ -8,7 +8,17 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.container {
+  margin: 20px 40px;
+}
+.d-flex {
+  display: flex;
+}
+.green {
+  background-color: green;
+  color: white;
+}
+.goal{
+  background-color: grey;
+  color: white;
 }
